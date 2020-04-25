@@ -12,5 +12,3 @@ def loop_message_n_times(string, n)
     puts string
   end
 end
-
-  
